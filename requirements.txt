@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+protego
+pandas
+openpyxl
+# optional, later:
+# fastapi
+# uvicorn
